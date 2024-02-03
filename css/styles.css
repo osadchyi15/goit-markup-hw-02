@@ -83,7 +83,6 @@ body {
 
 .link-logo {
   text-decoration: none;
-c
   color: #4d5ae5;
   text-transform: uppercase;
   font-weight: 700;
@@ -204,4 +203,8 @@ c
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+}
+
+.footer-logo {
+  font-family: "Raleway", sans-serifl;
 }
