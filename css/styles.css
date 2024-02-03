@@ -77,9 +77,13 @@ body {
 /* header */
 
 /* logo */
+.logo {
+  letter-spacing: 0.03em;
+}
+
 .link-logo {
   text-decoration: none;
-  font-family: "Raleway", sans-serif;
+c
   color: #4d5ae5;
   text-transform: uppercase;
   font-weight: 700;
@@ -156,8 +160,9 @@ body {
   letter-spacing: 0.03em;
 }
 
-.footer .link-logo .studio {
+.footer-logo .studio {
   color: #f4f4fd;
+  letter-spacing: 0.03em;
 }
 
 .paragraf-footer {
