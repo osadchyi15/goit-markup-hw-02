@@ -79,6 +79,7 @@ body {
 /* logo */
 .logo {
   letter-spacing: 0.03em;
+  font-family: "Raleway", sans-serif;
 }
 
 .link-logo {
